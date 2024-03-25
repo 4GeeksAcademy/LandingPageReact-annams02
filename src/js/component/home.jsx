@@ -33,7 +33,7 @@ const Home = () => {
 			</div>
 			
 				<div class="card">
- 				 <div class="card-footer container-fluid d-flex">
+ 				 <div class="card-footer">
 					footer
 				</div>
 				</div>
